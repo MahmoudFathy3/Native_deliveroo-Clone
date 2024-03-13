@@ -1,0 +1,11 @@
+1: install Project
+2: install React Native Navigation and Navigation/Stack
+3: install React Native Bottom Sheet
+4: npx expo install react-native-reanimated react-native-gesture-handler
+5: set to file babel.config => plugins: ["react-native-reanimated/plugin"],
+6: install react-native-vector-icons
+7: install react-native-bouncy-checkbox
+8: Get API Google Cloud
+9: install react-native-maps
+10: install react native google places autocomplete
+11: install react-native-parallax-scroll-view  

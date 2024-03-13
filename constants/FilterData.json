@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Acai",
+    "count": 7
+  },
+  {
+    "name": "African",
+    "count": 9
+  },
+  {
+    "name": "Alcohol",
+    "count": 330
+  },
+  {
+    "name": "American",
+    "count": 201
+  },
+  {
+    "name": "BBQ",
+    "count": 73
+  },
+  {
+    "name": "Indian",
+    "count": 112
+  },
+  {
+    "name": "Meal Deal",
+    "count": 129
+  },
+  {
+    "name": "Healthy",
+    "count": 247
+  }
+]

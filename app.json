@@ -4,27 +4,37 @@
     "slug": "deliveroo-Clone",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/deliveroo2.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/deliveroo2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/deliveroo2.png",
+        "backgroundColor": "#ffffff",
+        "resizeMode": "cover"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyC-r2Jc8aqL9yUFZxuR8olhX-16Menol30"
+        }
+      },
+      "package": "com.mahmoudfathy1997.deliverooClone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5c8e77d4-4301-4d8e-82a3-3c8af05b872c"
+      }
     }
   }
 }
